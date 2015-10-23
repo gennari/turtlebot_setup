@@ -9,7 +9,7 @@ catkin_make
 echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 
-#Install Turtlebot Nodes (instructions at http://wiki.ros.org/turtlebot/Tutorials/indigo/Installation)
+#Install Turtlebot Nodes (instructions at http://wiki.ros.org/turtlebot/Tutorials/indigo/Turtlebot%20Installation)
 
 #Verify whether Turtlebot nodes have been correctly installed
 roslaunch turtlebot_bringup minimal.launch
